@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-awesome-pagination",
-  "version": "0.3.6",
-  "description": "An opinionated, more awesome approach to pagination in Gatsby",
+  "name": "@decimoseptimo/gatsby-awesome-pagination",
+  "version": "0.3.6-b",
+  "description": "0.3.6 Fork - Adds support for trailing slashes",
   "files": [
     "lib"
   ],
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GatsbyCentral/gatsby-plugin-awesome-pagination.git"
+    "url": "https://github.com/decimoseptimo/gatsby-awesome-pagination/tree/add-trailing-slash"
   },
   "bugs": {
-    "url": "https://github.com/GatsbyCentral/gatsby-plugin-awesome-pagination/issues"
+    "url": "https://github.com/decimoseptimo/gatsby-awesome-pagination/issues"
   },
-  "homepage": "https://github.com/GatsbyCentral/gatsby-plugin-awesome-pagination#readme",
+  "homepage": "https://github.com/decimoseptimo/gatsby-awesome-pagination/tree/add-trailing-slash#readme",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
